@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//count_letter_and_words
 int string_count(char *str);
 int string_words(char *str);
 int is_whitespace(char c);
